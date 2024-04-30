@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: testrunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 185.019 s <<< FAILURE! - in testrunner.TestRunner
+User logout his account successfully(Login Logout Action)  Time elapsed: 22.365 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'I validate the outcomes' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("I validate the outcomes")
+public void i_validate_the_outcomes() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
