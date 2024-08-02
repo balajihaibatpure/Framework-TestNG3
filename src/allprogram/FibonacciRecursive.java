@@ -2,7 +2,7 @@ package allprogram;
 
 public class FibonacciRecursive {
     public static void main(String[] args) {
-        int n = 30;
+        int n = 2;
 
         System.out.println("Fibonacci series up to " + n + ":");
         for (int i = 0; i < n; i++) {

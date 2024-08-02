@@ -4,7 +4,7 @@ public class PalindreomNumber {
 
 	public static void main(String[] args) {
 	
-		        String str = "434";
+		        String str = "122";
 		        boolean isPalindrome = new StringBuilder(str).reverse().toString().equals(str);
 		        System.out.println(isPalindrome ? "Palindrome" : "Not Palindrome");
 		    }

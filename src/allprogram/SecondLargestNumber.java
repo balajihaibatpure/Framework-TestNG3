@@ -18,4 +18,4 @@ public class SecondLargestNumber {
 
         System.out.println("Second largest number: " + secondLargest);
     }
-}
+} 

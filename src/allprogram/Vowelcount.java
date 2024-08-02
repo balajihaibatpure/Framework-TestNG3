@@ -1,7 +1,7 @@
-package allprogram;
+ package allprogram;
 public class Vowelcount {
     public static void main(String[] args) {
-        String str = "savarkar";
+        String str = "balaji";
         int vowelCount = 0;
 
        // str = str.toLowerCase();

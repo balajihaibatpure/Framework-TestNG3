@@ -1,4 +1,4 @@
-package allprogram;
+ package allprogram;
 
 public class PrimeNumber {
 
